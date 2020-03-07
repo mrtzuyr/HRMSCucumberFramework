@@ -1,0 +1,9 @@
+{
+  "emp_firstname": "James",
+  "emp_lastname": "McGill",
+  "emp_middle_name": "",
+  "emp_gender": "1",
+  "emp_birthday": "1972-02-19",
+  "emp_status": "Employee",
+  "emp_job_title": "Developer"
+}
